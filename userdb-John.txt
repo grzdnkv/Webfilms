@@ -1,0 +1,14 @@
+user:
+John
+    cart:
+    Snatch
+    The Green Mile
+    Cast Away
+    Pulp Fiction
+    cartend
+    star:
+    The Green Mile
+    Pulp Fiction
+    Forrest Gump
+    starend
+usernameend
